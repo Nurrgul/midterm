@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Port+Lligat+Sans&display=swap");
+
+body, html{
+	height: 100%;
+	width: 100%;
+	font-family: "Port Lligat Sans";
+color: #222;
+}
+body {
+	background-image: url("https://lh3.googleusercontent.com/proxy/1jVW-0f-WwTLDKnOBg2whJQY-IIKRW-OXtIUAOaQxeayJ0_o6l5c5zo1aetK27GrQwEp6bytRRZrEKR3qE1Rjh1JnHI-gyuAAfvS_g5oMEMGShpHZV3MIx7_jmp6RX1j");
+	height: 100%;
+	width: 100%;
+}
+#survey-form{
+	background-color: #66dbff;
+     width: 100%;
+    
+     padding: 10px;
+     
+     margin-left:30px;
+     margin-right:50px;
+     border: 0px solid ;
+     }
